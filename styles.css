@@ -1,0 +1,29 @@
+h1, p, h2, ul, h3, h4 {
+    font-family: 'Fahkwang', sans-serif;
+}
+
+ul, p {
+    color:red;
+}
+
+h1, h2, h3, h4 {
+    color:yellow;
+}
+
+body {
+    background:orange;
+}
+
+body {
+    Background-image:url("https://i1.sndcdn.com/avatars-000324660848-svf5u7-t500x500.jpg");
+    
+}
+
+p,ul{
+    background-color: yellow;
+}
+
+h1, p, ul, h2, li, h3,h4, img {
+    text-align:center;
+}
+
